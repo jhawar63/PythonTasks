@@ -1,0 +1,10 @@
+a=int(input("Enter First Number:"));
+b=int(input("Enter Second Number:"));
+addition = a+b;
+subtraction=a-b;
+multiplication=a*b;
+division=a/b;
+print("Addition: ",addition);
+print("Subtraction: ",subtraction);
+print("Multiplication: ",multiplication);
+print("Division: ",division);
